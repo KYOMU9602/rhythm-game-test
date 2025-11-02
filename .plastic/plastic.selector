@@ -1,0 +1,4 @@
+repository "rhythm game/test2@33263356100031@cloud"
+  path "/"
+    br "/main"
+    co "/main"
